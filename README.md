@@ -171,7 +171,17 @@ This tool is intended for legitimate use with your own Reonomy account. Ensure y
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+**You are free to:**
+- Share and redistribute the software
+- Modify and adapt the software for personal use
+
+**Under these conditions:**
+- **Attribution** - You must give appropriate credit to VibeCoderz
+- **NonCommercial** - You may NOT use this software for commercial purposes, including selling, paid services, or commercial distribution
+
+See the [LICENSE](LICENSE) file for full details.
 
 ---
 

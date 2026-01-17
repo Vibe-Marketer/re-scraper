@@ -113,6 +113,8 @@ The exported CSV includes the following columns:
 
 Multiple contacts per property are supported with numbered columns (e.g., `contact_2_name`, `contact_2_phone_1`, etc.)
 
+See [`sample-output.csv`](sample-output.csv) for an example of the exported data format.
+
 ## Tips & Best Practices
 
 ### For Best Results

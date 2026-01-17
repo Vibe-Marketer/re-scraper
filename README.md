@@ -121,8 +121,21 @@ See [`sample-output.csv`](sample-output.csv) for an example of the exported data
 
 - **Use Saved Searches** - The scraper works best with saved search URLs, not manual searches
 - **Start Small** - Test with a small batch (set Limit to 10-20) before running large jobs
-- **Keep Browser Active** - Don't minimize the browser window while scraping
 - **Stable Connection** - Use a reliable internet connection to avoid interruptions
+
+### Keep the Browser Tab Active (Important!)
+
+Modern browsers will suspend inactive tabs to save resources. If the Reonomy tab gets suspended, the scraper will pause until you return to it.
+
+**To prevent interruptions:**
+- Keep the Reonomy tab **visible on your screen** while scraping
+- **Don't switch to other tabs** or minimize the browser window
+- If you need to do other work, use a **separate browser window** rather than switching tabs
+- Consider using a dedicated browser profile just for scraping
+- Disable any browser extensions that auto-suspend tabs (like "The Great Suspender")
+
+**If the scraper pauses:**
+Simply click back on the Reonomy tab - the scraper will automatically resume from where it left off thanks to the auto-save feature.
 
 ### Resuming Interrupted Sessions
 
